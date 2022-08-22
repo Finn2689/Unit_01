@@ -11,7 +11,7 @@ public class CountUp {
     }
 
     public static void main(String[] args) { 
-        int sum = countWhile(10); 
+        int sum = countWhile(15); 
         System.out.println("sum: " + sum);
     }
 }
